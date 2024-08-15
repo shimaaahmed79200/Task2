@@ -1,0 +1,43 @@
+#Product{
+    width: 420px;
+    height: 580px;
+}
+
+#Product h2{
+    letter-spacing: 8px;
+    font-size: 16px;
+    color: rgb(116, 116, 116);
+}
+#Product h1{
+    width: 300px;
+    font-size: 40px;
+    line-height: 1;
+    margin: 40px 0;
+}
+#Product p{
+    width: 350px;
+    line-height: 1.5;
+    color: rgb(141, 141, 141);
+    font-size: 19px;
+    margin-bottom: 40px;
+}
+#Product h3{
+    color: rgb(4, 143, 97);
+    font-size: 32px;
+}
+#Product h3 span{
+    color: rgb(184, 186, 186);
+    font-size: 22px;
+    padding-left: 30px;
+    text-decoration: line-through;
+}
+#Product button{
+    background-color: rgb(6, 179, 121);
+    color: aliceblue;
+    padding: 10px 150px;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 30px;
+}
